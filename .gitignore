@@ -1,0 +1,6 @@
+.DS_Store
+node_modules
+public/build
+firebase.json
+src/firebase.js
+.firebase
